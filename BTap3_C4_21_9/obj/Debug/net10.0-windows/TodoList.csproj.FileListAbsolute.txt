@@ -1,0 +1,16 @@
+C:\BTL_LTTQ\BTap3_C4_21_9\bin\Debug\net10.0-windows\TodoList.exe
+C:\BTL_LTTQ\BTap3_C4_21_9\bin\Debug\net10.0-windows\TodoList.deps.json
+C:\BTL_LTTQ\BTap3_C4_21_9\bin\Debug\net10.0-windows\TodoList.runtimeconfig.json
+C:\BTL_LTTQ\BTap3_C4_21_9\bin\Debug\net10.0-windows\TodoList.dll
+C:\BTL_LTTQ\BTap3_C4_21_9\bin\Debug\net10.0-windows\TodoList.pdb
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.Form1.resources
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.csproj.GenerateResource.cache
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.AssemblyInfo.cs
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.dll
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\refint\TodoList.dll
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.pdb
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\TodoList.genruntimeconfig.cache
+C:\BTL_LTTQ\BTap3_C4_21_9\obj\Debug\net10.0-windows\ref\TodoList.dll

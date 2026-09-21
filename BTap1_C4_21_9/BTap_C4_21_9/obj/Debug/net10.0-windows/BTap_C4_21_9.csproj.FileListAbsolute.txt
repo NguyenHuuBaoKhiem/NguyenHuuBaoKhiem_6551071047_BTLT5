@@ -1,0 +1,16 @@
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\bin\Debug\net10.0-windows\BTap_C4_21_9.exe
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\bin\Debug\net10.0-windows\BTap_C4_21_9.deps.json
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\bin\Debug\net10.0-windows\BTap_C4_21_9.runtimeconfig.json
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\bin\Debug\net10.0-windows\BTap_C4_21_9.dll
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\bin\Debug\net10.0-windows\BTap_C4_21_9.pdb
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.Form1.resources
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.csproj.GenerateResource.cache
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.AssemblyInfo.cs
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.dll
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\refint\BTap_C4_21_9.dll
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.pdb
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\BTap_C4_21_9.genruntimeconfig.cache
+C:\BTL_LTTQ\BTap_C4_21_9\BTap_C4_21_9\obj\Debug\net10.0-windows\ref\BTap_C4_21_9.dll

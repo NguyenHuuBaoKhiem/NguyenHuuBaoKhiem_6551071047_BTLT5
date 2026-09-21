@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BTChuong5_Section2/1.0.0": {
+        "runtime": {
+          "BTChuong5_Section2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTChuong5_Section2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

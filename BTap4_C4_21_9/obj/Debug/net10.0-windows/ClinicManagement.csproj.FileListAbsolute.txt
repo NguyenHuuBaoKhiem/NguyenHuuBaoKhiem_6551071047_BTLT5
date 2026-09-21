@@ -1,0 +1,16 @@
+C:\BTL_LTTQ\BTap4_C4_21_9\bin\Debug\net10.0-windows\ClinicManagement.exe
+C:\BTL_LTTQ\BTap4_C4_21_9\bin\Debug\net10.0-windows\ClinicManagement.deps.json
+C:\BTL_LTTQ\BTap4_C4_21_9\bin\Debug\net10.0-windows\ClinicManagement.runtimeconfig.json
+C:\BTL_LTTQ\BTap4_C4_21_9\bin\Debug\net10.0-windows\ClinicManagement.dll
+C:\BTL_LTTQ\BTap4_C4_21_9\bin\Debug\net10.0-windows\ClinicManagement.pdb
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.frmBenhNhan.resources
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.csproj.GenerateResource.cache
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.AssemblyInfoInputs.cache
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.AssemblyInfo.cs
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.csproj.CoreCompileInputs.cache
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.dll
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\refint\ClinicManagement.dll
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.pdb
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ClinicManagement.genruntimeconfig.cache
+C:\BTL_LTTQ\BTap4_C4_21_9\obj\Debug\net10.0-windows\ref\ClinicManagement.dll

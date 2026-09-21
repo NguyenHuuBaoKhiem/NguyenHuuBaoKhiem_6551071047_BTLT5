@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTL_LTTQ\\BTap_C4_21_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|c:\\btl_lttq\\btap_c4_21_9\\btap_c4_21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|solutionrelative:btap_c4_21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|c:\\btl_lttq\\btap_c4_21_9\\btap_c4_21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|solutionrelative:btap_c4_21_9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|c:\\btl_lttq\\btap_c4_21_9\\btap_c4_21_9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D7455-44F9-49D2-B69C-D1AF142D59AC}|BTap_C4_21_9\\BTap_C4_21_9.csproj|solutionrelative:btap_c4_21_9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.cs",
+              "RelativeDocumentMoniker": "BTap_C4_21_9\\Form1.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.cs",
+              "RelativeToolTip": "BTap_C4_21_9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T01:51:56.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.cs",
+              "RelativeDocumentMoniker": "BTap_C4_21_9\\Form1.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.cs [Design]",
+              "RelativeToolTip": "BTap_C4_21_9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T01:50:12.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BTap_C4_21_9\\Form1.Designer.cs",
+              "ToolTip": "C:\\BTL_LTTQ\\BTap_C4_21_9\\BTap_C4_21_9\\Form1.Designer.cs",
+              "RelativeToolTip": "BTap_C4_21_9\\Form1.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:07:21.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
